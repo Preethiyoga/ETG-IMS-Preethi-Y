@@ -21,7 +21,8 @@
 ###           * Time (has the date day and time of the transaction )
 ###           * Price(Has the transacted amount)
 #         
-# At first you have to give an input :1 or 2 or 3 or 4 or 5 To choose between functionalities
+# At first you have to give an input :
+### 1 or 2 or 3 or 4 or 5 To choose between functionalities
 # (Functionalities):
 ##    '1': to add an item to the report.txt
 ###                * can add more no. of items to the eisting product
