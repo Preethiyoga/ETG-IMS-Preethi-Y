@@ -25,19 +25,19 @@
 ### 1 or 2 or 3 or 4 or 5 To choose between functionalities
 # (Functionalities):
 ##    '1': to add an item to the report.txt
-###                * can add more no. of items to the eisting product
+###                * can add more no. of items to the existing product
 ###                * can add new product to the report.txt
 ##    '2': To purchase an item
 ###            You can purchase an item which is available in the report.txt
 ###            it will modify the sales.txt 
-####                  * By incrementing 'sales'-count of the transaction
-####                  * append the deatils of new transcation at the end
+####                  * By incrementing value of 'sales' -> incrementing count of the transaction
+####                  * append the deatils of new transcation at the end to the sales.txt
 ####                  * Transaction_id of each transaction is caculated from count of transactions made.So that the transaction id is sequential 
-#####            You can purchase As Much as produts you want
+#####            You can purchase As Much as products you want
 ####                  * I created a while loop for that
 ####                  * You have to enter the number of products you want to purchase before starting the purchase
 ####            Discount will be reduced from the amount of each product
-####            After the purchase the 'Items Available' atribute will be reduced 
+####            After the purchase the 'Items Available' atribute will be reduced for purchased product
 #           
 ##    '3' : TO display Ratings of the products
 ##    '4' : To display Material composition
