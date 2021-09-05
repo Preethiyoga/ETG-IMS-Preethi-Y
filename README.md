@@ -3,13 +3,13 @@
 # Files attached:
 ###  * report.txt -> contains menu of the item
 ###  * sales.txt -> contains details about transactions made
-###  * code(editable from google colab)
+###  * Inventory-Management.ipynb -> code(editable from google colab)
 # Attributes of the items  in report.txt:
 ###   * product id
 ###      * name
 ###      * Price
 ###      * Rating
-###      * cus_ct(Count of the customers whoever rated the product
+###      * cus_ct(Count of the customers whoever rated the product)
 ###      * Dicount_percentage
 ###      * Items Available(QUANTITY of the item in stock)
 ###      * Material Composition
@@ -21,7 +21,7 @@
 ###           * Time (has the date day and time of the transaction )
 ###           * Price(Has the transacted amount)
 #         
-# At first you have to give an input :
+# At first you have to give an input :1 or 2 or 3 or 4 or 5 To choose between functionalities
 # (Functionalities):
 ##    '1': to add an item to the report.txt
 ###                * can add more no. of items to the eisting product
