@@ -5,7 +5,7 @@
 ###  * sales.txt -> contains details about transactions made
 ###  * Inventory-Management.ipynb -> code(editable from google colab)
 # Attributes of the items  in report.txt:
-###   * product id
+###   * product id -> ranges from 1000 to 1030
 ###      * name
 ###      * Price
 ###      * Rating
